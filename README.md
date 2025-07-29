@@ -1,1 +1,1 @@
-Try the Calculator https://nmsaikat.github.io/Calculator/
+Try the Calculator: https://nmsaikat.github.io/Calculator/
